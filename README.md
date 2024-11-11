@@ -1,1 +1,2 @@
 # BlackPhotoGenerator
+# TERMUX SUPPORTED
